@@ -1,1 +1,1 @@
-![My Image](https://github.com/rushibhh/rushibhh/blob/main/background.png?raw=true)
+![My Image](https://github.com/rushibhh/rushibhh/blob/main/github-background.png?raw=true)
